@@ -1,6 +1,6 @@
 @font-face {
     font-family:  "qwe";
-    src: url(//C:/site/design/fonts/1111.otf);
+    src: url(/site/design/fonts/1111.otf);
     font-style: normal; 
     font-weight: normal; 
 }
@@ -59,3 +59,15 @@ a:link {
   a:active {
     text-decoration: none;
   }
+  .insta{
+    width: 48px;
+    height: 48px;
+}
+.vk{
+    width: 48px;
+    height: 48px;
+}
+.github{
+    width: 48px;
+    height: 48px;
+}
