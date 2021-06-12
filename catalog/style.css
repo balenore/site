@@ -1,0 +1,83 @@
+@font-face {
+    font-family:  "qwe";
+    src: url(//C://site/design/fonts/1111.otf);
+    font-style: normal; 
+    font-weight: normal; 
+}
+.insta {
+    width: 40px;
+    height: 40px;
+    }
+.logo {
+    width: 174px;
+    height: 94px;  
+}
+.towers_lisa {
+    width: 179px;
+    height: 300px;
+
+}
+figure {
+    border: 3px solid #ccc; /* рамка */
+background-color: #ffffff; /* цвет фона */
+padding: 0px; /* отступы от картинки */
+width: 181px;
+height: 318px;
+}
+figcaption {
+text-align: center; /* подпись по центру*/
+}
+.text-align {
+    text-align: center;
+
+
+}
+.catalog{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.announcements{
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+.contacts{
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+.social{
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+body{
+font-family: qwe;
+
+}
+.coming_soon{
+width: 181px;
+height: 318px;
+
+}
+
+a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  audio{
+    padding-left: 1000px;
+}
+
+.music{
+    padding-left: 1050px;
+    padding-top: 280px;
+}
