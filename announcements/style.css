@@ -1,6 +1,6 @@
 @font-face {
     font-family:  "qwe";
-    src: url(design/fonts/1111.otf);
+    src: url(/site/design/fonts/1111.otf);
     font-style: normal; 
     font-weight: normal; 
 }
@@ -66,4 +66,7 @@ a:link {
 .music{
     padding-left: 1050px;
     padding-top: 280px;
+}
+.japan{
+    src: url(/site/design/fonts/japan.ttf);
 }
